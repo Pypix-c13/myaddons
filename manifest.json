@@ -1,0 +1,31 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "SurviveTheFoid",
+        "description": "SurviveTheFoid Script Pack",
+        "uuid": "095c785e-465f-4103-b27e-8330851493ad",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            26,
+            52
+        ]
+    },
+    "modules": [
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "efa7d857-8ed9-4fea-aada-9eab807b33bb",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "entry": "scripts/main.js"
+        }
+    ]
+}
